@@ -13,7 +13,7 @@
 * Lat
 * Long
 * TLC
-    * The station
+    * The station code
 
 
 Accuracy: The coordinates are to 4 decimals places which provides accuracy to around 11m.
