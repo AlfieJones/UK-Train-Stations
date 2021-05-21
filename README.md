@@ -8,7 +8,7 @@
 
 ## What's included
 * ID
- ** This just assigned starting from 0 in alphabetical order, new stations are added using the next number
+    * This just assigned starting from 0 in alphabetical order, new stations are added using the next number
 * Name
 * Lat
 * Long
